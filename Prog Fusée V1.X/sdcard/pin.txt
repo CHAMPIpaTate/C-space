@@ -1,0 +1,6 @@
+voici les nom des pin a renomer pour le bon fonctionement de ma lib
+
+
+Ok = led vert
+Err = led rouge
+SD_CS = ship select 
